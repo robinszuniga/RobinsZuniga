@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hola, Me llamo Robinson José Zúñiga Jiménez
 
-<!--
-**robinszuniga/RobinsZuniga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----
+### Productor de Radio y Televisión 📽️
 
-Here are some ideas to get you started:
+-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Actualmente me encuentro haciendo diferentes cursos para ser developer FullStack con lneguaje como java y pronto en javascript.
+
+
+------
+
+#### Comandos de terminal que he aprendido.
+
+| Comando | Descripción |
+| ----------- | ----------- |
+| cd | Navegar entre carpeta |
+| ls | Listado de archivo carpeta actual |
+| pwd | mostrar directorio actual |
+| alias | Crear comando personalizados|
+
+
+----
+#### Comando Alias
+
+| Alias | Descripción |
+| ------|-------------|
+| cl | clear|
+| npmd | npm run dev |
+
+
+
