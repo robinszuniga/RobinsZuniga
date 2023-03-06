@@ -29,4 +29,8 @@
 | npmd | npm run dev |
 
 
+----
 
+## Redes Sociales
+
+🔗https://www.linkedin.com/in/robinson-zuniga/
